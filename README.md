@@ -1,1 +1,1 @@
-# vs-local-issues
+# vscode-local-issues
